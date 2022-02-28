@@ -5,6 +5,7 @@
 .navbar-toggler-icon {
     z-index: 1;
     filter: invert(1);
+    
 }
 
 .bg-blue {
@@ -14,4 +15,9 @@
 .c-white {
     color: white;
     text-decoration: none;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.55); 
+    border-color: white
 }
