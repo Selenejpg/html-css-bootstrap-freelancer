@@ -67,7 +67,7 @@ h1 {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;  
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .artist {
@@ -104,5 +104,13 @@ h2 {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center; 
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
    
+}
+
+.card {
+    margin-bottom: 8px;
+    margin-right: 5px;
 }
