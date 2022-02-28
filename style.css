@@ -1,3 +1,4 @@
+/* classi header */
 .fixed-top {
     background-color: #2c3e50;
 }
@@ -20,4 +21,22 @@
 .navbar-light .navbar-toggler {
     color: rgba(0,0,0,.55); 
     border-color: white
+}
+
+/* classi jumbotron */
+
+.jumbotron {
+    height: 700PX;
+    justify-content: center;
+    background-color: #1abc9c;
+}
+
+.jumbo-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.jumbo {
+    width: 25%;
+    padding-top: 120px;
 }
