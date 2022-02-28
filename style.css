@@ -25,10 +25,16 @@
 
 /* classi jumbotron */
 
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
 .jumbotron {
-    height: 700PX;
     justify-content: center;
     background-color: #1abc9c;
+    padding-bottom: 10px;
 }
 
 .jumbo-2 {
@@ -39,4 +45,37 @@
 .jumbo {
     width: 25%;
     padding-top: 120px;
+}
+
+.line {
+    border: 2px solid white;
+    height: 3px;
+    width: 8%;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.fa-star {
+    color: white;
+    font-size: 20px;
+}
+
+.lineastella {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;  
+    margin-bottom: 15px;
+}
+
+.artist {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
 }
