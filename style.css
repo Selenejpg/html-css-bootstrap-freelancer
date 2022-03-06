@@ -114,3 +114,16 @@ h2 {
     margin-bottom: 8px;
     margin-right: 5px;
 }
+
+textarea,
+input {
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.btn-success {
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    color: white;
+}
+
