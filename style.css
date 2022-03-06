@@ -70,6 +70,23 @@ h1 {
     margin-bottom: 20px;
 }
 
+.bg-about {
+    background-color: #1abc9c;
+}
+
+.line-white {
+    border: 2px solid white;
+    height: 3px;
+    width: 12%;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.btn-light {
+    background-color: #1abc9c;
+}
+
 .artist {
     text-decoration: none;
     color: white;
@@ -167,3 +184,4 @@ input {
     border: 1px solid white;
     padding: 10px 11px;
 }
+
